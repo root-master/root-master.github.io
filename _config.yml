@@ -13,24 +13,18 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://rmanak.github.io/
-hosturl: http://rmanak.github.io/
-baseurl: http://rmanak.github.io/
-title: Arman Akbarian
-author: Arman Akbarian
-description: Personal website and resume
+url: http://root-master.github.io/
+hosturl: http://root-master.github.io/
+baseurl: http://root-master.github.io/
+title: Jacob Rafati
+author: Jacob Rafati
+description: Academic and Professional website
 avatar: profile.jpg
-email: arman2@gmail.com
-github: rmanak # username
-#facebook: armanphotography
+email: jrafatiheravi@ucmerced.edu
+github: root-master # username
 instagram: rmanakb
-#twitter: username
-linkedin: armanakbarian
-#stackoverflow: username   #e.g: users/2735833/proton1h1
-# Comment out if you don't want disqus
-# disqus: username
-#google_analytics: UA-69391421-1
-work: Aida
+linkedin: jacob-rafati-22494785
+work: University of California, Merced.
 
 #include: ['_pages']
 # needed for travis-ci build
